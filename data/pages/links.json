@@ -1,0 +1,43 @@
+{
+  "common": {
+    "buttons": [
+      {
+        "label": "机场订阅（公共）",
+        "url": "https://tsmeod.top/#/register?code=0jiT9rGz"
+      }
+    ],
+    "footer": {
+      "lines": ["Cookie Policy · Terms · Privacy", "在Linktree上加入 me"],
+      "cta": { "label": "linktr.ee/you", "url": "https://linktr.ee/you" }
+    }
+  },
+  "profiles": {
+    "pupuwaifu": {
+      "name": "♡ PUPUWAIFU ♡",
+      "tagline": "♡ You look lonely, I can fix that ♡",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "instagram", "url": "https://instagram.com" },
+        { "icon": "tiktok", "url": "https://tiktok.com" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/PuPuWaiFuVIP_Bot?start=pupuwaifu_com" },
+        { "label": "X (TWITTER)", "url": "https://x.com/pupuwaifu" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
+    "blckdog": {
+      "name": "blckdog",
+      "tagline": "另一个示例分组",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "instagram", "url": "https://instagram.com" },
+        { "icon": "tiktok", "url": "https://tiktok.com" }
+      ],
+      "buttons": [
+        { "label": "TG订阅（示例）", "url": "https://t.me/PuPuWaiFuVIP_Bot?start=blckdog" },
+        { "label": "X (TWITTER)", "url": "https://x.com/pupuwaifu" }
+      ]
+    }
+  }
+}
