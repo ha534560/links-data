@@ -26,17 +26,17 @@
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
-    "blckdog": {
-      "name": "blckdog",
-      "tagline": "另一个示例分组",
+    "guofudiyiyao": {
+      "name": "汐梦瑶 | XMYAO1998",
+      "tagline": "💛预览购买💛Preview and purchase💛NSFW🔞",
       "avatar": "assets/profile.png",
       "social": [
         { "icon": "instagram", "url": "https://instagram.com" },
         { "icon": "tiktok", "url": "https://tiktok.com" }
       ],
       "buttons": [
-        { "label": "TG订阅（示例）", "url": "https://t.me/PuPuWaiFuVIP_Bot?start=blckdog" },
-        { "label": "X (TWITTER)", "url": "https://x.com/pupuwaifu" }
+        { "label": "TG💛汐梦瑶完整作品集 | NSFW", "url": "https://t.me/BieLaoZaiBot?start=x0WEgLrmYQnuv" },
+        { "label": "X (TWITTER)", "url": "https://x.com/OshiXimiya" }
       ]
     }
   }
