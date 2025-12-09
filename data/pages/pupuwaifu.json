@@ -1,0 +1,37 @@
+{
+  "id": "pupuwaifu",
+  "name": "♡ PUPUWAIFU ♡",
+  "tagline": "♡ You look lonely, I can fix that ♡",
+  "avatar": "assets/profile.png",
+  "social": [
+    { "icon": "instagram", "url": "https://instagram.com" },
+    { "icon": "tiktok", "url": "https://tiktok.com" }
+  ],
+  "buttons": [
+    { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/PuPuWaiFuVIP_Bot?start=pupuwaifu_com" },
+    { "label": "机场推荐", "url": "https://tsmeod.top/#/register?code=0jiT9rGz" },
+    { "label": "X (TWITTER)", "url": "https://x.com/pupuwaifu" },
+    { "label": "FANSONE✨ 支持人民币", "locked": true }
+  ],
+  "footer": {
+    "lines": [
+      "Cookie Policy · Terms · Privacy",
+      "在Linktree上加入 pupuwaifu"
+    ],
+    "cta": {
+      "label": "linktr.ee/you",
+      "url": "https://linktr.ee/you"
+    }
+  },
+  "theme": {
+    "bg": "#dcbabb",
+    "bg-accent": "#b68888",
+    "bg-deep": "#694949",
+    "card": "rgba(255, 255, 255, 0.68)",
+    "text": "#2c1e1e",
+    "muted": "#674f4f",
+    "accent": "#ffb347",
+    "locked": "#aa7878",
+    "shadow": "0 15px 35px rgba(44, 30, 30, 0.25)"
+  }
+}
