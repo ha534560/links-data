@@ -38,7 +38,7 @@
       ],
       "buttons": [
         { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=HGZQcIP5HVSBe" },
-        { "label": "X (TWITTER)", "locked": true }
+        { "label": "X (被封了)", "locked": true }
       ]
     },
     "Cfanla_": {
