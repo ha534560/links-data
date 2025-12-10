@@ -32,7 +32,9 @@
       "avatar": "assets/profile.png",
       "social": [
         { "icon": "instagram", "url": "https://instagram.com" },
-        { "icon": "tiktok", "url": "https://tiktok.com" }
+        { "icon": "tiktok", "url": "https://tiktok.com" },
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=JbzcTHYMumakC" },
+        { "icon": "x", "url": "https://x.com/NTRWUROSE" }
       ],
       "buttons": [
         { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=JbzcTHYMumakC" },
