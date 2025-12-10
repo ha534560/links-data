@@ -61,7 +61,8 @@
         { "icon": "tiktok", "url": "https://tiktok.com" }
       ],
       "buttons": [
-        { "label": "Telegram订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=KiHz2TDGjRknk" }
+        { "label": "Telegram订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=KiHz2TDGjRknk" },
+        { "label": "X (TWITTER)", "url": "https://x.com/yugede1" }
       ]
     },
     "xxxx": {
