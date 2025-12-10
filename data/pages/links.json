@@ -8,7 +8,7 @@
     ],
     "footer": {
       "lines": ["Cookie Policy · Terms · Privacy", "在Linktree上加入我们"],
-      "cta": { "label": "linktr.ee/", "url": "https://linktr.ee/" }
+      "cta": { "label": "linktr.ee/", "url": "https://linktr.ee" }
     }
   },
   "profiles": {
