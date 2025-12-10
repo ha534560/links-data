@@ -12,6 +12,34 @@
     }
   },
   "profiles": {
+    "xx": {
+      "name": "♡ PUPUWAIFU ♡",
+      "tagline": "♡ You look lonely, I can fix that ♡",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "instagram", "url": "https://instagram.com" },
+        { "icon": "tiktok", "url": "https://tiktok.com" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=zlOfBKs7evpTS" },
+        { "label": "X (TWITTER)", "url": "https://x.com/pupuwaifu" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
+    "xxx": {
+      "name": "♡ PUPUWAIFU ♡",
+      "tagline": "♡ You look lonely, I can fix that ♡",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "instagram", "url": "https://instagram.com" },
+        { "icon": "tiktok", "url": "https://tiktok.com" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=zlOfBKs7evpTS" },
+        { "label": "X (TWITTER)", "url": "https://x.com/pupuwaifu" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
     "pupuwaifu": {
       "name": "♡ PUPUWAIFU ♡",
       "tagline": "♡ You look lonely, I can fix that ♡",
