@@ -18,11 +18,27 @@
       "avatar": "assets/profile.png",
       "social": [
         { "icon": "instagram", "url": "https://instagram.com" },
-        { "icon": "tiktok", "url": "https://tiktok.com" }
+        { "icon": "tiktok", "url": "https://tiktok.com" },
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=JbzcTHYMumakC" },
+        { "icon": "x", "url": "https://x.com/NTRWUROSE" }
       ],
       "buttons": [
         { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=zlOfBKs7evpTS" },
         { "label": "X (TWITTER)", "url": "https://x.com/pupuwaifu" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
+    "ququ2003": {
+      "name": "趣趣的links | ququ999999",
+      "tagline": "已过布尔玛原创认证/只做原创内容/完整版私聊过🚪进电报观看❤️/可定制视频图片/御姐178 50/无线下/无墙内联系方式",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=lsgfellDudHMy" },
+        { "icon": "x", "url": "https://x.com/ququ999999" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=lsgfellDudHMy" },
+        { "label": "X (TWITTER)", "url": "https://x.com/ququ999999" },
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
