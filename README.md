@@ -58,3 +58,21 @@
 ## 部署建议
 - 数据仓库公开放 GitHub Raw / Pages，即可跨域读取；私仓需代理/Worker。
 - 如需 SEO，请考虑对每个分组做预渲染静态导出；当前模板为纯前端渲染。
+
+## 演示json
+-     "ROSEWU": {
+      "name": "♡ ROSEWU 真实原创 ♡",
+      "tagline": "♡ 尝试去拍摄一些NTR的相关 真实原创 ♡",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "instagram", "url": "https://instagram.com" },
+        { "icon": "tiktok", "url": "https://tiktok.com" },
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=JbzcTHYMumakC" },
+        { "icon": "x", "url": "https://x.com/NTRWUROSE" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=JbzcTHYMumakC" },
+        { "label": "X (TWITTER)", "url": "https://x.com/NTRWUROSE" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
