@@ -28,6 +28,20 @@
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
+    "CikaiMoon": {
+      "name": "小K | CikaiMoon LINKS",
+      "tagline": "请收藏我的防丢失页面 ",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=iEmdLgUfnkJvk" },
+        { "icon": "x", "url": "https://x.com/cikaimoon" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=iEmdLgUfnkJvk" },
+        { "label": "X (TWITTER)", "url": "https://x.com/cikaimoon" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
     "Yummy707": {
       "name": "玉米 | Yummy LINKS",
       "tagline": "请收藏我的防丢失页面 ",
