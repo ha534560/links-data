@@ -28,17 +28,31 @@
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
+    "Yummy707": {
+      "name": "玉米 | Yummy LINKS",
+      "tagline": "请收藏我的防丢失页面 ",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=iEmdLgUfnkJvk" },
+        { "icon": "x", "url": "https://x.com/yum_707" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=iEmdLgUfnkJvk" },
+        { "label": "X (TWITTER)", "url": "https://x.com/yum_707" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
     "LuoBao1221": {
       "name": "洛宝 | LuoBao1221 links ♡",
       "tagline": "感谢支持订阅的宝宝！",
       "avatar": "assets/profile.png",
       "social": [
-        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=JbzcTHYMumakC" },
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=kORSfDEIOq2Ne" },
         { "icon": "x", "url": "https://x.com/luobao1221" }
       ],
       "buttons": [
-        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=zlOfBKs7evpTS" },
-        { "label": "X (TWITTER)", "url": "https://x.com/pupuwaifu" },
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=kORSfDEIOq2Ne" },
+        { "label": "X (TWITTER)", "url": "https://x.com/luobao1221" },
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
