@@ -28,6 +28,20 @@
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
+    "KouJInSang": {
+      "name": "口巾SANG的个人主页",
+      "tagline": "专业的拍摄手法",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=JbzcTHYMumakC" },
+        { "icon": "x", "url": "https://x.com/koujin9527" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=zlOfBKs7evpTS" },
+        { "label": "X (TWITTER)", "url": "https://x.com/koujin9527" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
     "KunKunKun181": {
       "name": "困困狗的主页 | KunKunKun181",
       "tagline": "♡ You look lonely, I can fix that ♡",
