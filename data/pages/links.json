@@ -28,6 +28,20 @@
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
+    "svj798ds": {
+      "name": "X博主 svj798ds",
+      "tagline": "专业拍摄博主，布尔玛认证",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=S3LlYOiDSU9kx" },
+        { "icon": "x", "url": "https://x.com/svj798ds" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=S3LlYOiDSU9kx" },
+        { "label": "X (TWITTER)", "url": "https://x.com/svj798ds" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
     "DaoPox": {
       "name": "推特祖师爷 | 江南第一深情 daopox",
       "tagline": "良家妹妹 四百人斩 恋爱情感教学",
