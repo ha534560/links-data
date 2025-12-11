@@ -1,2 +1,250 @@
-玉米 | Yummy LINKS
-请收藏我的防丢失页面 | htps://Yum707.Com
+{
+  "common": {
+    "buttons": [
+      {
+        "label": "机场推荐",
+        "url": "https://tsmeod.top/#/register?code=0jiT9rGz"
+      }
+    ],
+    "footer": {
+      "lines": ["Cookie Policy · Terms · Privacy", "本防丢失页面托管在Linktree"],
+      "cta": { "label": "linktr.ee", "url": "https://linktr.ee" }
+    }
+  },
+  "profiles": {
+    "xx": {
+      "name": "♡ PUPUWAIFU ♡",
+      "tagline": "♡ You look lonely, I can fix that ♡",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "instagram", "url": "https://instagram.com" },
+        { "icon": "tiktok", "url": "https://tiktok.com" },
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=JbzcTHYMumakC" },
+        { "icon": "x", "url": "https://x.com/NTRWUROSE" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=zlOfBKs7evpTS" },
+        { "label": "X (TWITTER)", "url": "https://x.com/pupuwaifu" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
+    "Yummy707": {
+      "name": "玉米 | Yummy LINKS",
+      "tagline": "请收藏我的防丢失页面 ",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=iEmdLgUfnkJvk" },
+        { "icon": "x", "url": "https://x.com/yum_707" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=iEmdLgUfnkJvk" },
+        { "label": "X (TWITTER)", "url": "https://x.com/yum_707" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
+    "LuoBao1221": {
+      "name": "洛宝 | LuoBao1221 links ♡",
+      "tagline": "感谢支持订阅的宝宝！",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=kORSfDEIOq2Ne" },
+        { "icon": "x", "url": "https://x.com/luobao1221" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=kORSfDEIOq2Ne" },
+        { "label": "X (TWITTER)", "url": "https://x.com/luobao1221" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
+    "ZiDan670": {
+      "name": "你的反差蛋！防失联页面",
+      "tagline": "♡ 喜欢我请支持我的订阅 ♡",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=JbzcTHYMumakC" },
+        { "icon": "x", "url": "https://x.com/NTRWUROSE" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=adTTZTQFZs18u" },
+        { "label": "X (TWITTER)", "url": "https://x.com/zidan670" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
+    "KouJInSang": {
+      "name": "口巾SANG的个人主页",
+      "tagline": "专业的拍摄手法",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=JbzcTHYMumakC" },
+        { "icon": "x", "url": "https://x.com/koujin9527" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=SoqCDYGCaPRm4" },
+        { "label": "X (TWITTER)", "url": "https://x.com/koujin9527" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
+    "KunKunKun181": {
+      "name": "困困狗的主页 | KunKunKun181",
+      "tagline": "♡ You look lonely, I can fix that ♡",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=8EqP2qXQ6QMBR" },
+        { "icon": "x", "url": "https://x.com/kunkunkun188" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=8EqP2qXQ6QMBR" },
+        { "label": "X (TWITTER)", "url": "https://x.com/kunkunkun188" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
+    "svj798ds": {
+      "name": "X博主 svj798ds",
+      "tagline": "专业拍摄博主，布尔玛认证",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=S3LlYOiDSU9kx" },
+        { "icon": "x", "url": "https://x.com/svj798ds" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=S3LlYOiDSU9kx" },
+        { "label": "X (TWITTER)", "url": "https://x.com/svj798ds" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
+    "DaoPox": {
+      "name": "推特祖师爷 | 江南第一深情 daopox",
+      "tagline": "良家妹妹 四百人斩 恋爱情感教学",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=ur3vorscHG5Kb" },
+        { "icon": "x", "url": "https://x.com/daopox" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=zlOfBKs7evpTS" },
+        { "label": "X (被封禁)", "locked": true }
+      ]
+    },
+    "yigeren": {
+      "name": "一个ren | yigeren33",
+      "tagline": "原创足控淫妻博主",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=HGZQcIP5HVSBe" },
+        { "icon": "x", "url": "https://x.com/yigeren33" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=HGZQcIP5HVSBe" },
+        { "label": "X (被封了)", "locked": true }
+      ]
+    },
+    "Cfanla_": {
+      "name": "饭饭Links | Cfanla_",
+      "tagline": "00后妻主｜绿帽贱狗收割机｜NTR资深女玩家｜家养一只重度绿奴，分享记录绿帽日常｜所有绿帽的最终幻想",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=PkwinynIHHak3" },
+        { "icon": "x", "url": "https://x.com/Cfanla_" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=PkwinynIHHak3" },
+        { "label": "X (TWITTER)", "url": "https://x.com/Cfanla_" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
+    "ququ2003": {
+      "name": "趣趣的links | ququ999999",
+      "tagline": "已过布尔玛原创认证/只做原创内容/完整版私聊过🚪进电报观看❤️/可定制视频图片/御姐178 50/无线下/无墙内联系方式",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=lsgfellDudHMy" },
+        { "icon": "x", "url": "https://x.com/ququ999999" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=lsgfellDudHMy" },
+        { "label": "X (TWITTER)", "url": "https://x.com/ququ999999" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
+    "ROSEWU": {
+      "name": "♡ ROSEWU 真实原创 ♡",
+      "tagline": "♡ 尝试去拍摄一些NTR的相关 真实原创 ♡",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=JbzcTHYMumakC" },
+        { "icon": "x", "url": "https://x.com/NTRWUROSE" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=JbzcTHYMumakC" },
+        { "label": "X (TWITTER)", "url": "https://x.com/NTRWUROSE" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
+    "pupuwaifu": {
+      "name": "♡ PUPUWAIFU ♡",
+      "tagline": "♡ You look lonely, I can fix that ♡",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "instagram", "url": "https://instagram.com" },
+        { "icon": "tiktok", "url": "https://tiktok.com" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=zlOfBKs7evpTS" },
+        { "label": "X (TWITTER)", "url": "https://x.com/pupuwaifu" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
+    "guofudiyiyao": {
+      "name": "汐梦瑶 | XMYAO1998",
+      "tagline": "💛预览购买💛Preview and purchase💛NSFW🔞",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "instagram", "url": "https://instagram.com" },
+        { "icon": "tiktok", "url": "https://tiktok.com" }
+      ],
+      "buttons": [
+        { "label": "TG💛汐梦瑶完整作品集 | NSFW", "url": "https://t.me/BieLaoZaiBot?start=x0WEgLrmYQnuv" },
+        { "label": "X (TWITTER)", "url": "https://x.com/OshiXimiya" }
+      ]
+    },
+    "wendy_uncle": {
+      "name": "Uncle Wendy 溫蒂叔叔🔞 (Asian) 情侶/原創/販售原味",
+      "tagline": "we make the videos that I would like to see!   Enjoy",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "instagram", "url": "https://instagram.com" },
+        { "icon": "tiktok", "url": "https://tiktok.com" }
+      ],
+      "buttons": [
+        { "label": "TG电报订阅全部作品（微信/支付宝/虚拟币）", "url": "https://t.me/BieLaoZaiBot?start=x0WEgLrmYQnuv" },
+        { "label": "X (TWITTER)", "url": "https://x.com/wendy_uncle" }
+      ]
+    },
+    "YGYCSP": {
+      "name": "鱼哥原创视频 | YGYCSP.Com",
+      "tagline": "💛请购买我的精品作品💛Please purchase my exquisite works💛NSFW🔞",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "instagram", "url": "https://instagram.com" },
+        { "icon": "tiktok", "url": "https://tiktok.com" }
+      ],
+      "buttons": [
+        { "label": "Telegram订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=KiHz2TDGjRknk" },
+        { "label": "X (TWITTER)", "url": "https://x.com/yugede1" }
+      ]
+    },
+    "WDQHC": {
+      "name": "我的枪好长啊 | wdqhc888",
+      "tagline": "【只发原创🎬】❗️原创视频几百部，各种类型视频都有！多位女主，3p.双飞.淫妻.绿帽，微漏脸！💛NSFW🔞",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "instagram", "url": "https://instagram.com" },
+        { "icon": "tiktok", "url": "https://tiktok.com" }
+      ],
+      "buttons": [
+        { "label": "我的枪好长啊（在线中）购买会员点我 | NSFW", "url": "https://t.me/BieLaoZaiBot?start=CIPVrVfUEyqnj" },
+        { "label": "X (TWITTER)", "url": "https://x.com/wdqhc888" }
+      ]
+    }
+  }
+}
