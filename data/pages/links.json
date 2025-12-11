@@ -28,6 +28,19 @@
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
+    "DaoPox": {
+      "name": "推特祖师爷 | 江南第一深情 daopox",
+      "tagline": "良家妹妹 四百人斩 恋爱情感教学",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=ur3vorscHG5Kb" },
+        { "icon": "x", "url": "https://x.com/daopox" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=zlOfBKs7evpTS" },
+        { "label": "X (被封禁)", "locked": true }
+      ]
+    },
     "yigeren": {
       "name": "一个ren | yigeren33",
       "tagline": "原创足控淫妻博主",
