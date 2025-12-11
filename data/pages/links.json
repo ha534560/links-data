@@ -28,6 +28,20 @@
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
+    "KunKunKun181": {
+      "name": "困困狗的主页 | KunKunKun181",
+      "tagline": "♡ You look lonely, I can fix that ♡",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=8EqP2qXQ6QMBR" },
+        { "icon": "x", "url": "https://x.com/kunkunkun188" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=8EqP2qXQ6QMBR" },
+        { "label": "X (TWITTER)", "url": "https://x.com/kunkunkun188" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
     "svj798ds": {
       "name": "X博主 svj798ds",
       "tagline": "专业拍摄博主，布尔玛认证",
