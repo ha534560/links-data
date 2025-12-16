@@ -28,6 +28,20 @@
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
+    "sce778": {
+      "name": "原创博主A-sce与小条",
+      "tagline": "原创博主A-sce与小条 | 精品制造机 | 已过布尔玛认证 | ",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=7G4CrYfO9Iw1K" },
+        { "icon": "x", "url": "https://x.com/91a_sce" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=7G4CrYfO9Iw1K" },
+        { "label": "X (TWITTER)", "url": "https://x.com/91a_sce" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
     "SLEEPSBG": {
       "name": "深情小K | SLEEPSBG 主页",
       "tagline": "请订阅我的TG频道支持我，谢谢！",
