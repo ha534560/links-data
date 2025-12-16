@@ -25,6 +25,20 @@
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
+    "TripleFire": {
+      "name": "小火𝐹𝐼𝑅𝐸 | TripleFire77",
+      "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "" },
+        { "icon": "x", "url": "https://t.me/TripleFire888" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "" },
+        { "label": "X (TWITTER)", "url": "https://t.me/TripleFire888" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
     "DirectorTong": {
       "name": "捅主任的日常 | DirectorTong.TV",
       "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
