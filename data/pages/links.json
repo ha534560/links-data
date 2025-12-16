@@ -12,19 +12,17 @@
     }
   },
   "profiles": {
-    "xx": {
-      "name": "♡ PUPUWAIFU ♡",
-      "tagline": "♡ You look lonely, I can fix that ♡",
+    "fhheese35": {
+      "name": "♡ 播音系的小美miyoki ♡",
+      "tagline": "播音系的小美miyoki | fhheese35",
       "avatar": "assets/profile.png",
       "social": [
-        { "icon": "instagram", "url": "" },
-        { "icon": "tiktok", "url": "" },
-        { "icon": "telegram", "url": "" },
-        { "icon": "x", "url": "" }
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=fOEJBTPbEEzlE" },
+        { "icon": "x", "url": "https://x.com/fhheese35" }
       ],
       "buttons": [
-        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "" },
-        { "label": "X (TWITTER)", "url": "" },
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=fOEJBTPbEEzlE" },
+        { "label": "X (TWITTER)", "url": "https://x.com/fhheese35" },
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
