@@ -25,6 +25,20 @@
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
+    "PicoPuppy": {
+      "name": "小狗饲养员 | PicoPuppy",
+      "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=wur7YielmrHzc" },
+        { "icon": "x", "url": "https://x.com/PICOPUPPY99" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=wur7YielmrHzc" },
+        { "label": "X (被封了)", "locked": true },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
     "watever177": {
       "name": "17° | watever177 主页",
       "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
