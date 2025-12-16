@@ -25,6 +25,20 @@
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
+    "DirectorTong": {
+      "name": "捅主任的日常 | DirectorTong.TV",
+      "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "" },
+        { "icon": "x", "url": "https://x.com/DirectorTONG" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "" },
+        { "label": "X (TWITTER)", "url": "https://x.com/DirectorTONG" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
     "PicoPuppy": {
       "name": "小狗饲养员 | PicoPuppy",
       "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
