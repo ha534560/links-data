@@ -11,6 +11,34 @@
       "cta": { "label": "linktr.ee", "url": "https://linktr.ee" }
     }
   },
+    "x": {
+      "name": "♡ x ♡",
+      "tagline": "x",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "" },
+        { "icon": "x", "url": "" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "" },
+        { "label": "X (TWITTER)", "url": "" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
+    "watever177": {
+      "name": "17° | watever177 主页",
+      "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=6Mi8hhaq9Fg4N" },
+        { "icon": "x", "url": "https://x.com/watever177" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=6Mi8hhaq9Fg4N" },
+        { "label": "X (TWITTER)", "url": "https://x.com/watever177" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
   "profiles": {
     "fhheese35": {
       "name": "♡ 播音系的小美miyoki ♡",
