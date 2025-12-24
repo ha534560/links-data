@@ -58,11 +58,11 @@
       "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
       "avatar": "assets/profile.png",
       "social": [
-        { "icon": "telegram", "url": "" },
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=5IjrPNWMp83fj" },
         { "icon": "x", "url": "https://t.me/TripleFire888" }
       ],
       "buttons": [
-        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "" },
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=5IjrPNWMp83fj" },
         { "label": "X (TWITTER)", "url": "https://t.me/TripleFire888" },
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
