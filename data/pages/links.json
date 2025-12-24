@@ -20,6 +20,20 @@
         { "icon": "x", "url": "" }
       ],
       "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=vgkm8fB2HYSbX" },
+        { "label": "X (TWITTER)", "url": "https://x.com/jianai9999" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
+    "JiaNai": {
+      "name": "西野加奈KANA 的主页",
+      "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=vgkm8fB2HYSbX" },
+        { "icon": "x", "url": "https://x.com/jianai9999" }
+      ],
+      "buttons": [
         { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "" },
         { "label": "X (TWITTER)", "url": "" },
         { "label": "FANSONE✨ 支持人民币", "locked": true }
