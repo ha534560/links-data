@@ -25,9 +25,23 @@
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
+    "XiaoFanQie": {
+      "name": "黑椒盖饭（流泪番茄） | XiaoFanQie008",
+      "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "" },
+        { "icon": "x", "url": "" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "" },
+        { "label": "X (TWITTER)", "url": "" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
     "QDDUSJFMD": {
       "name": "拜托了请和我交往 | QDDUSJFMD",
-      "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
+      "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主 | 00情侣原创，分享158反差女友，外表清纯可爱，私下很骚，喜欢意淫羞辱，喜黑丝，露出，双马尾......  🚪门槛群自助入门",
       "avatar": "assets/profile.png",
       "social": [
         { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=urk3s5GfMpAu8" },
