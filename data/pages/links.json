@@ -25,6 +25,20 @@
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
+    "HADES": {
+      "name": "黑帝斯 | HADES",
+      "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=iV3CwBng7yoz0" },
+        { "icon": "x", "url": "https://x.com/Greecetw00" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=iV3CwBng7yoz0" },
+        { "label": "X (TWITTER)", "url": "https://x.com/Greecetw00" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
     "Zong62296": {
       "name": "人活着就是为了六花 | Zong62296",
       "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
