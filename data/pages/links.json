@@ -25,6 +25,20 @@
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
+    "TangTangQZ": {
+      "name": "唐唐 | LINKS",
+      "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=tOfbwwhTg8jiN" },
+        { "icon": "x", "url": "https://x.com/tangtangqz" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=tOfbwwhTg8jiN" },
+        { "label": "X (TWITTER)", "url": "https://x.com/tangtangqz" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
 "MrsShangGuan": {
       "name": "上官夫人 | Links",
       "tagline": "03/175 💮020已婚人妻/原创已过认证",
