@@ -25,6 +25,20 @@
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
+    "ShiXiaoTaoNe": {
+      "name": "小桃的主页",
+      "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=TPNa7haj85BE2" },
+        { "icon": "x", "url": "https://x.com/shixiaotaone" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=TPNa7haj85BE2" },
+        { "label": "X (TWITTER)", "url": "https://x.com/shixiaotaone" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
     "LinYuTing001": {
       "name": "小林的涩涩日常 | Links",
       "tagline": "反差秘书小林 | 已过布尔玛原创认证",
