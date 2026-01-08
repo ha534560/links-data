@@ -25,6 +25,20 @@
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
+    "Joioio": {
+      "name": "犬九（JingYe食物）| jojo",
+      "tagline": "ℕ𝕊𝔽𝕎 🔞｜JingYe食物| 06模特 | 原创博主",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "" },
+        { "icon": "x", "url": "https://x.com/Joioio_" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "" },
+        { "label": "X (TWITTER)", "url": "https://x.com/Joioio_" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
     "PangYeDeChi": {
       "name": "胖胖de奇妙旅行 个人主页",
       "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
