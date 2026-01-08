@@ -25,6 +25,20 @@
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
+    "LinYuYing001": {
+      "name": "小林的涩涩日常 | Links",
+      "tagline": "反差秘书小林 | 已过布尔玛原创认证",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=do8ghHPoZeoVr" },
+        { "icon": "x", "url": "https://x.com/Linyuting001" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=do8ghHPoZeoVr" },
+        { "label": "X (TWITTER)", "url": "https://x.com/Linyuting001" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
     "TangTangQZ": {
       "name": "唐唐 | LINKS",
       "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
