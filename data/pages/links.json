@@ -25,6 +25,20 @@
         { "label": "FANSONE✨ 支持人民币", "locked": true }
       ]
     },
+    "SxeYuki": {
+      "name": "SEX_YUKI",
+      "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
+      "avatar": "assets/profile.png",
+      "social": [
+        { "icon": "telegram", "url": "https://t.me/BieLaoZaiBot?start=EcL8mlVywIdC8" },
+        { "icon": "x", "url": "https://x.com/Sxeyuki" }
+      ],
+      "buttons": [
+        { "label": "TG纸飞机订阅 ✨ 支持人民币", "url": "https://t.me/BieLaoZaiBot?start=EcL8mlVywIdC8" },
+        { "label": "X (TWITTER)", "url": "https://x.com/Sxeyuki" },
+        { "label": "FANSONE✨ 支持人民币", "locked": true }
+      ]
+    },
     "ProXiaoGou": {
       "name": "Puppypro",
       "tagline": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主",
